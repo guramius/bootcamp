@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto 0 auto;
+    background-color: hsl(212, 45%, 89%);
+}
+.container {
+    width: 320px;
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 16px;
+}
+.qrCode {
+    width: 100%;
+    border-radius: 10px;  
+}
+.title {
+    color: #1F314F;
+    font-size: 22px;
+    text-align: center;
+    margin: 24px 16px;
+    font-weight: 700;
+    line-height: 28px;
+}
+.paragraph {
+    color: #7D889E;
+    text-align: center;
+    padding: 0px 32px 40px 32px;
+}
