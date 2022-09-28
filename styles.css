@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 50px auto 0 auto;
+    margin: 60px auto 0 auto;
     background-color: hsl(212, 45%, 89%);
 }
 .container {
@@ -25,12 +25,12 @@ body {
     color: #1F314F;
     font-size: 22px;
     text-align: center;
-    margin: 24px 16px;
+    margin: 24px 8px;
     font-weight: 700;
     line-height: 28px;
 }
 .paragraph {
     color: #7D889E;
     text-align: center;
-    padding: 0px 32px 40px 32px;
+    padding: 0px 18px 40px 18px;
 }
